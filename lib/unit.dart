@@ -25,3 +25,4 @@ class Unit {
         assert(name != null),
         assert(conversion != null);
 }
+
